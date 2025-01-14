@@ -93,7 +93,7 @@ Sample examples of the dataset are available in the `Sample Data` folder.
 
 ## How to Get the Full Dataset
 
-1. **Sign the User Agreement Form**  
+1. **Sign the  End User License Agreement (EULA) Form**  
    Download and sign the User Agreement form.
    
 2. **Submit the Form**  
@@ -106,13 +106,13 @@ Sample examples of the dataset are available in the `Sample Data` folder.
 
 ## Contact and Support
 
-For inquiries or support, please reach out to the dataset owner through the email provided in the User Agreement form.
+For inquiries or support, please reach out to the dataset owner through the email provided in the EULA form.
 
 ---
 
 ## License
 
-The dataset is distributed under specific terms outlined in the User Agreement. Usage requires signing and adhering to the agreement's conditions.
+The dataset is distributed under specific terms outlined in the EULA form. Usage requires signing and adhering to the agreement's conditions.
 
 ---
 
