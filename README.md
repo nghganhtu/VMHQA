@@ -102,6 +102,38 @@ Sample examples of the dataset are available in the `Sample Data` folder.
 
 ---
 
+Here’s your Citation Guide section rewritten in Markdown (ready for inclusion in your EULA.md or documentation site):
+
+⸻
+
+## Citation Guide
+
+When publishing research or presenting work that uses the VMHQA dataset, users must cite the dataset properly. The recommended citation in IEEE format is:
+
+> T. A. H. Nguyen, Q.-D. Nguyen, H. M. Nguyen, A. H. Nguyen, and L. Nguyen,  
+> “*VMHQA: A Vietnamese Multi-choice Dataset for Mental Health Domain Question Answering*,”  
+> *EAI Endorsed Transactions on Scalable Information Systems*,  
+> vol. 12, no. 4, Sep. 2025, doi: [10.4108/eetsis.7678](https://doi.org/10.4108/eetsis.7678)
+
+Alternatively, you can cite it using the provided BibTeX entry:
+
+```
+@article{article,
+  author  = {Nguyen, Loan and Nguyen, Tu and Nguyen, Quang-Dieu and Nguyen, Harius and Nguyen, Alfred},
+  year    = {2025},
+  month   = {09},
+  pages   = {},
+  title   = {VMHQA: A Vietnamese Multi-choice Dataset for Mental Health Domain Question Answering},
+  volume  = {12},
+  journal = {EAI Endorsed Transactions on Scalable Information Systems},
+  doi     = {10.4108/eetsis.7678}
+}
+```
+
+Failure to properly cite the dataset may result in revocation of access or denial of future dataset requests.
+
+---
+
 ## Contact and Support
 
 For inquiries or support, please reach out to the dataset owner through the email provided in the EULA form.
@@ -115,4 +147,3 @@ The dataset is distributed under specific terms outlined in the EULA form. Usage
 ---
 
 Thank you for your interest in the **VMHQA Dataset**! This resource aims to support advancements in Vietnamese NLP and the mental health domain.
-
