@@ -102,10 +102,6 @@ Sample examples of the dataset are available in the `Sample Data` folder.
 
 ---
 
-Here’s your Citation Guide section rewritten in Markdown (ready for inclusion in your EULA.md or documentation site):
-
-⸻
-
 ## Citation Guide
 
 When publishing research or presenting work that uses the VMHQA dataset, users must cite the dataset properly. The recommended citation in IEEE format is:
